@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="VerifyView">
+        <attr name="textBefore" format="string" />
+        <attr name="textAfter" format="string" />
+        <attr name="radius" format="dimension" />
+        <attr name="firstColor" format="color" />
+        <attr name="secColor" format="color" />
+        <attr name="textColor" format="color" />
+        <attr name="textSize" format="dimension" />
+        <attr name="interval" format="integer"/>
+    </declare-styleable>
+</resources>
